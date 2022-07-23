@@ -1,0 +1,2 @@
+# NP270E5K-KW2BR-OpenCore
+BigSur for i5-5200u HD5500
